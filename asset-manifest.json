@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NFTstora/static/css/main.0cd7fd52.css",
+    "main.js": "/NFTstora/static/js/main.f95d7c4c.js",
+    "static/js/787.61e603f1.chunk.js": "/NFTstora/static/js/787.61e603f1.chunk.js",
+    "static/media/vid.mp4": "/NFTstora/static/media/vid.fc71437628058aefd8ca.mp4",
+    "static/media/mainimage.png": "/NFTstora/static/media/mainimage.50ae0409f76d3ff35994.png",
+    "static/media/person.jpg": "/NFTstora/static/media/person.886e4a77d5aceaed286d.jpg",
+    "static/media/bitcoin.jpg": "/NFTstora/static/media/bitcoin.46e8c1068ae51db6fd31.jpg",
+    "static/media/bitcoin3.jpg": "/NFTstora/static/media/bitcoin3.50028aaf9346372c0811.jpg",
+    "static/media/bitcoin2.jpg": "/NFTstora/static/media/bitcoin2.b8ba908828b352b7f8e5.jpg",
+    "index.html": "/NFTstora/index.html",
+    "static/media/circles.svg": "/NFTstora/static/media/circles.be1ff3c5420557bd113822e3e53fbb42.svg",
+    "main.0cd7fd52.css.map": "/NFTstora/static/css/main.0cd7fd52.css.map",
+    "main.f95d7c4c.js.map": "/NFTstora/static/js/main.f95d7c4c.js.map",
+    "787.61e603f1.chunk.js.map": "/NFTstora/static/js/787.61e603f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd7fd52.css",
+    "static/js/main.f95d7c4c.js"
+  ]
+}
